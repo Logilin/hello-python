@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+
+import socket
+
+print("Hello from {} (Python 3 script)\n".format(socket.gethostname()))
